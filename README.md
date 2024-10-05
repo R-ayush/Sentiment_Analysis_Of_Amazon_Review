@@ -1,7 +1,10 @@
 ##Sentiment Analysis of Amazon Reviews
+
 This project focuses on predicting the sentiment (positive or negative) of Amazon product reviews using machine learning models. The solution is deployed as a real-time sentiment prediction web app built with Streamlit.
 
+
 #Table of Contents
+
 Overview
 Features
 Technologies Used
